@@ -22,6 +22,13 @@ https://mylove1596-bit.github.io/MenoSleep/disclaimer.html
 https://mylove1596-bit.github.io/MenoSleep/support.html
 ```
 
+## Before launch
+
+- `index.html` links to a placeholder App Store id. Replace it with the real one after
+  the product is created in App Store Connect.
+- The four contact addresses (`privacy@`, `legal@`, `clinical@`, `support@menosleep.app`)
+  need to exist before the site is public.
+
 ## Enabling Pages
 
 Settings → Pages → Build and deployment → Source: **GitHub Actions**. The workflow in
